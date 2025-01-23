@@ -1,4 +1,6 @@
 # 💫 About Me:
+I want to be an Ai Developer
+I want to make the world better
 I'm currently studying At Information Technology Major
 
 
