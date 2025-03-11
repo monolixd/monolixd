@@ -1,7 +1,7 @@
 # 👨‍💻 monolixd
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjUxM2E4ZDE0cm51NDh5MG92d2Q4Z3BybXc2bTNkZmdjNW5kamlybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU4MDI1eDllaGUxOXpkbDIybnljMWh5dnVmM2swcTd2bDRkeTM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="450" height="300"/>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F723&center=true&vCenter=true&width=435&lines=AI+Developer+in+the+making;Information+Technology+Student;Building+a+better+world+with+code)](https://git.io/typing-svg)
 </div>
