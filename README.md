@@ -10,7 +10,7 @@
 
 ```javascript
 const developer = {
-  name: "MonoliXD",
+  name: "monolixd",
   goal: "🤖 AI Developer",
   mission: "🌎 Make this world better",
   education: "👨‍💻 Information Technology Major",
