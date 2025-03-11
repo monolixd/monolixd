@@ -112,7 +112,7 @@ const developer = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=monolixd&style=flat-square&color=blueviolet" alt="Profile Views" />
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnExYWNjcDI1cmVyaXJsY2ptNHBmMzVhZ2R5ZGVhZnF1c2Mwd28xNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFrOTR2dm40cGg4aDVjdnR6MzZhaTU4eXhqYmN3em5ubmp3bjMxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9C1nyePnovqlpEYFMD/giphy.gif" width="100" />
   <br/>
   <b>Happy Coding! 👨‍💻</b>
 </div>
