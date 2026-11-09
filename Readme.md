@@ -88,28 +88,22 @@ const monolixd = {
 </h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=monolixd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F723&icon_color=00C4CC&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monolixd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F723&text_color=ffffff" alt="Top Languages" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="Profile Details" />
+  <br/>
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=monolixd&theme=radical&hide_border=true&background=0d1117&ring=00F723&fire=8511FA&currStreakLabel=00F723" alt="GitHub Streak" />
 </div>
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
+<!-- ═══════════════ CODING HABITS ═══════════════ -->
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=99999&color=FFD700&vCenter=true&repeat=false&width=300&height=30&lines=%F0%9F%8F%86+Trophy+Room" alt="Trophy Room" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=99999&color=FFD700&vCenter=true&repeat=false&width=320&height=30&lines=%E2%8F%B0+Coding+Habits" alt="Coding Habits" />
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monolixd&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
-</div>
-
-<!-- ═══════════════ ACTIVITY ═══════════════ -->
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=99999&color=00C4CC&vCenter=true&repeat=false&width=360&height=30&lines=%F0%9F%93%88+Contribution+Graph" alt="Contribution Graph" />
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monolixd&theme=react-dark&bg_color=0d1117&hide_border=true&color=00F723&line=8511FA&point=00C4CC&area=true" width="100%" alt="Activity Graph" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive Time" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per Language" />
 </div>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
